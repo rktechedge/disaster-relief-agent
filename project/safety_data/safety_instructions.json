@@ -1,0 +1,29 @@
+{
+  "flood": [
+    "Move to higher ground immediately.",
+    "Avoid walking or driving through floodwater.",
+    "Turn off utilities if instructed by authorities.",
+    "Follow evacuation orders from local officials."
+  ],
+  "earthquake": [
+    "Drop, Cover, and Hold On until shaking stops.",
+    "Stay away from glass and heavy furniture.",
+    "If outdoors, move to an open area away from buildings.",
+    "Check for injuries and damage after shaking."
+  ],
+  "cyclone": [
+    "Stay indoors and away from windows.",
+    "Secure loose outdoor objects.",
+    "Follow official evacuation notices if given.",
+    "Stock emergency supplies: water, food, torch."
+  ],
+  "fire": [
+    "Evacuate immediately if you are in danger.",
+    "Use stairs instead of elevators.",
+    "Cover your nose and mouth with cloth if smoke is present.",
+    "Call emergency services when you are safe."
+  ],
+  "default": [
+    "Follow official guidance from local authorities."
+  ]
+}

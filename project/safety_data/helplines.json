@@ -1,0 +1,43 @@
+{
+  "global": {
+    "general": [
+      {
+        "name": "International Emergency Helpline",
+        "phone": "+000-000-0000",
+        "note": "Global placeholder"
+      }
+    ]
+  },
+  "New York": {
+    "general": [
+      {
+        "name": "NYC Emergency",
+        "phone": "911",
+        "note": "Local emergency number"
+      }
+    ],
+    "flood": [
+      {
+        "name": "NY Flood Helpline",
+        "phone": "111-222-3333",
+        "note": "Flood support"
+      }
+    ]
+  },
+  "India": {
+    "general": [
+      {
+        "name": "National Emergency",
+        "phone": "112",
+        "note": "India emergency"
+      }
+    ],
+    "cyclone": [
+      {
+        "name": "NDMA",
+        "phone": "0120-123456",
+        "note": "NDMA placeholder"
+      }
+    ]
+  }
+}
